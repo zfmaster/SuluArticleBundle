@@ -17,13 +17,20 @@
             "homepage": "https://github.com/sulu/SuluArticleBundle/contributors"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "git@github.com:alexander-schranz/ElasticsearchBundle.git"
+        }
+    ],
     "require": {
         "php": "^7.2",
-        "elasticsearch/elasticsearch": "~5.0 || ~6.0",
+        "elasticsearch/elasticsearch": "^7.5",
         "jms/serializer": "^3.3",
         "jms/serializer-bundle": "^3.3",
-        "ongr/elasticsearch-bundle": "^5.2",
-        "ongr/elasticsearch-dsl": "~5.0 || ~6.0",
+        "ocramius/package-versions": "^1.0",
+        "ongr/elasticsearch-dsl": "^7.0",
+        "ongr/elasticsearch-bundle": "dev-feature/support-es7-in-version-5"
         "sulu/sulu": "^2.0.3",
         "symfony/config": "^4.3",
         "symfony/dependency-injection": "^4.3",
