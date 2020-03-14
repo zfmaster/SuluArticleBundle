@@ -17,12 +17,6 @@
             "homepage": "https://github.com/sulu/SuluArticleBundle/contributors"
         }
     ],
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "git@github.com:alexander-schranz/ElasticsearchBundle.git"
-        }
-    ],
     "require": {
         "php": "^7.2",
         "elasticsearch/elasticsearch": "^7.5",
