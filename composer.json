@@ -30,7 +30,7 @@
         "jms/serializer-bundle": "^3.3",
         "ocramius/package-versions": "^1.0",
         "ongr/elasticsearch-dsl": "^7.0",
-        "ongr/elasticsearch-bundle": "dev-feature/support-es7-in-version-5"
+        "ongr/elasticsearch-bundle": "dev-feature/support-es7-in-version-5",
         "sulu/sulu": "^2.0.3",
         "symfony/config": "^4.3",
         "symfony/dependency-injection": "^4.3",
