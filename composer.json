@@ -23,7 +23,7 @@
         "jms/serializer": "^3.3",
         "jms/serializer-bundle": "^3.3",
         "ocramius/package-versions": "^1.0",
-        "ongr/elasticsearch-dsl": "^6.2",
+        "ongr/elasticsearch-dsl": "^6.0",
         "ongr/elasticsearch-bundle": "^6.2",
         "sulu/sulu": "^2.0.3",
         "symfony/config": "^4.3",
